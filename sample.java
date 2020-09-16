@@ -7,6 +7,7 @@ public class HelloGuys {
 		System.out.println("Hey Duck");
 		System.out.println("Hey Arya");//newly added
 		System.out.println("Hey Aishu");//newly added
+		System.out.println("Hey vino");//newly added
 	}
 
 }
